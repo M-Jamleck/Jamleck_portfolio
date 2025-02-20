@@ -1,6 +1,4 @@
 # Jamleck's_portfolio
-Analytics Portfolio
-
 
 <h1>Hi, I'm Jamleck! </h1>
 
