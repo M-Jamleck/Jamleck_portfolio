@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Jamleck! </h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Data Analytic Projects:</h2>
 
 # [Project 1: Grosery Sales Project](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
 
