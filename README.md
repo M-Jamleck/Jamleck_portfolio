@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Data Analytic Projects:</h2>
 
-# [Project 1: Grosery Sales Project](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
+# [Project 1: Grocery Sales Project](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
 
 This project analyzes grocery sales data to uncover key insights about revenue, customer behavior, and product performance. Using Python (Pandas, Matplotlib, Seaborn), and seven datasets the grosery sales have, we explore: 
 
