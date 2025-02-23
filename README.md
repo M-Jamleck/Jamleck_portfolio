@@ -19,10 +19,10 @@ Employee Performance – I assessed how an employee’s tenure correlates with t
 You can access this project [Here.](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
 
 
-# [Project 2: Winequality-Red Project](https://github.com/M-Jamleck/Jamleck_portfolio/blob/main/netflixProject.ipynb)
+# [Project 2: Winequality-Red Project](https://github.com/M-Jamleck/Jamleck_portfolio/blob/e311e5aa8003f66e24574d5f0cad4ea99b9e6aa4/netflixProject.ipynb)
 
 This was part of a personal project where i delve into the characteristics of red wine to understand what influences its quality. Using python visualization techniques, i explore how factors like acidity, sugar levels, alcohol content, and pH correlate with overall wine ratings.
-This analysis helps identify the key attributes that contribute to a high-quality wine. You can access this project [Here.](https://colab.research.google.com/drive/17v9rZSO2_l5dlGNqKBk3pYY_GOlFedMN?usp=drive_link)
+This analysis helps identify the key attributes that contribute to a high-quality wine. You can access this project [Here.](https://github.com/M-Jamleck/Jamleck_portfolio/blob/e311e5aa8003f66e24574d5f0cad4ea99b9e6aa4/netflixProject.ipynb)
 
 
 # [Project 3: Malaria Infection Project](https://colab.research.google.com/drive/1Vqgk1jnOaP13IuOIr_xahUhKRZn86_gL?usp=sharing)
