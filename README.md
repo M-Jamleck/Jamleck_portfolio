@@ -33,7 +33,7 @@ You can access this project [Here.](https://colab.research.google.com/drive/1Vqg
 
 # Interactive Dashboards
 
-# [Project 1: Sample Tableau Project](https://m-jamleck.github.io/Jamleck_portfolio/index.html)
+# [Project 1: Sample Tableau Project]([https://m-jamleck.github.io/Jamleck_portfolio/index.html](https://m-jamleck.github.io/Jamleck_portfolio/dashboard.html)
 
 
 
