@@ -35,7 +35,7 @@ You can access this project [Here.](https://colab.research.google.com/drive/1Vqg
 
 # Interactive Dashboards
 <h3>Sample_Tableau Dashboard</h3>
-<iframe width="1000" height="800" src="https://public.tableau.com/app/profile/jamleck.mwaniki/viz/sampleproject_17402985030530/Sheet1?publish=yes" frameborder="0" allowfullscreen></iframe>
+<iframe width="1000" height="800" src="https://github.com/M-Jamleck/Jamleck_portfolio/blob/41e924732209ea3271b89587ebbb89bfa370bed0/index.html" frameborder="0" allowfullscreen></iframe>
 
 
 
