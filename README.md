@@ -33,6 +33,11 @@ Pearson's correlation test was conducted, which measures the strength and direct
 
 You can access this project [Here.](https://colab.research.google.com/drive/1Vqgk1jnOaP13IuOIr_xahUhKRZn86_gL?usp=sharing)
 
+# Interactive Dashboards
+<h3>Sample_Tableau Dashboard</h3>
+<iframe width="1000" height="800" src="https://public.tableau.com/app/profile/jamleck.mwaniki/viz/sampleproject_17402985030530/Sheet1?publish=yes" frameborder="0" allowfullscreen></iframe>
+
+
 
 
 
