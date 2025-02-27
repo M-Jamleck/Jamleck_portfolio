@@ -1,5 +1,10 @@
 <h1>Hi, I'm Jamleck!    This is my portfolio!</h1>
 
+# Interactive Dashboards
+
+# [Project 1: Employee Attrition Dashboard](https://m-jamleck.github.io/Jamleck_portfolio/dashboard.html)
+
+
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 # [Project 1: Grocery Sales Project](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
@@ -31,9 +36,6 @@ Pearson's correlation test was conducted, which measures the strength and direct
 
 You can access this project [Here.](https://colab.research.google.com/drive/1Vqgk1jnOaP13IuOIr_xahUhKRZn86_gL?usp=sharing)
 
-# Interactive Dashboards
-
-# [Project 1: Sample Tableau Project](https://m-jamleck.github.io/Jamleck_portfolio/dashboard.html)
 
 
 
