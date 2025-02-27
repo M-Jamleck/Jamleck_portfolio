@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jamleck!    This is my portfolio!</h1>
 
-# Interactive Dashboards
+# Interactive Dashboards()
 
-# [Project 1: Employee Attrition Dashboard](https://m-jamleck.github.io/Jamleck_portfolio/employee_dashboard.html)
+# [Project 1: Employee Attrition Dashboard](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
