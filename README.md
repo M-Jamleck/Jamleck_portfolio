@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jamleck!    This is my portfolio!</h1>
 
-# [Interactive Dashboards:](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
+[Interactive Dashboards:](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
 
 # [Project 1: Employee Attrition Dashboard](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
 
