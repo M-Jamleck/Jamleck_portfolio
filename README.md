@@ -2,7 +2,7 @@
 
 # Interactive Dashboards
 
-# [Project 1: Employee Attrition Dashboard](https://m-jamleck.github.io/Jamleck_portfolio/dashboard.html)
+# [Project 1: Employee Attrition Dashboard](https://public.tableau.com/app/profile/jamleck.mwaniki/viz/EmployeeAttritionDashboard_17406360512570/employeeattritiondashboard?publish=yes/dashboard.html)
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
