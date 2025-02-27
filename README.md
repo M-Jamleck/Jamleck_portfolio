@@ -1,11 +1,11 @@
 <h1>Hi, I'm Jamleck!    This is my portfolio!</h1>
 
-[Interactive Dashboards](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
+# Interactive Dashboards[](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
 
 # [Project 1: Employee Attrition Dashboard](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
 
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
+<h2>👨‍💻 Python Projects:</h2>
 
 # [Project 1: Grocery Sales Project](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
 
