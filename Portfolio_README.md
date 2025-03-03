@@ -10,7 +10,7 @@ Here, ...
 
 <h2>👨‍💻 Python Projects:</h2>
 
-# [Project 1: Grocery Sales Project](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
+# [Project 1: Grocery Sales Project](https://github.com/M-Jamleck/Jamleck_portfolio/blob/f2747c6c16f56826ed9e3daa4338bc5445665f12/Glosery%20sales%20Project.ipynb)
 
 This project analyzes grocery sales data to uncover key insights about revenue, customer behavior, and product performance. Using Python (Pandas, Matplotlib, Seaborn), and seven datasets the grosery sales have, we explore: 
 
@@ -22,7 +22,7 @@ Product Performance – I examined top-selling products and those with consisten
 
 Employee Performance – I assessed how an employee’s tenure correlates with their sales performance.
 
-You can access this project [Here.](https://colab.research.google.com/drive/169XA57jr7EunMH07HkBardhyfOHACvEa?usp=drive_link)
+You can access this project [Here.](https://github.com/M-Jamleck/Jamleck_portfolio/blob/f2747c6c16f56826ed9e3daa4338bc5445665f12/Glosery%20sales%20Project.ipynb)
 
 
 # [Project 2: Winequality-Red Project](https://github.com/M-Jamleck/Jamleck_portfolio/blob/e311e5aa8003f66e24574d5f0cad4ea99b9e6aa4/netflixProject.ipynb)
