@@ -3,7 +3,8 @@
 ## Tableau Dashboards:
 
 # [Project 1: Employee Attrition Dashboard](https://public.tableau.com/views/EmployeeAttritionDashboard_17406360512570/employeeattritiondashboard?:embed=y&:display_count=yes&:showVizHome=no)
-In this Dashboard
+In this Dashboard explored what drives employees to stay or leave, uncovering trends that impact retention. By looking at tenure, job roles, promotions, and workload, I identified key factors influencing turnover. This analysis helps organizations create better work environments, improve employee satisfaction, and reduce unnecessary attrition.
+[Click here](https://public.tableau.com/views/EmployeeAttritionDashboard_17406360512570/employeeattritiondashboard?:embed=y&:display_count=yes&:showVizHome=no)
 
 # [Seattle Weather Prediction Dashboard](https://public.tableau.com/views/SeattleweatherPrediction/SeattleWeatherPredictionDashboard?:embed=y&:display_count=yes&:showVizHome=no)
 Here, ...
