@@ -6,7 +6,7 @@
 Explored what drives employees to stay or leave, uncovering trends that impact retention. By looking at tenure, job roles, promotions, and workload, I identified key factors influencing turnover. This analysis helps organizations create better work environments, improve employee satisfaction, and reduce unnecessary attrition.
 [view Dashboard](https://public.tableau.com/views/EmployeeAttritionDashboard_17406360512570/employeeattritiondashboard?:embed=y&:display_count=yes&:showVizHome=no)
 
-# [Seattle Weather Prediction Dashboard](https://public.tableau.com/views/SeattleweatherPrediction/SeattleWeatherPredictionDashboard?:embed=y&:display_count=yes&:showVizHome=no)
+# [Project 2: Seattle Weather Prediction Dashboard](https://public.tableau.com/views/SeattleweatherPrediction/SeattleWeatherPredictionDashboard?:embed=y&:display_count=yes&:showVizHome=no)
 Here, I explored historical weather patterns to uncover trends in temperature, precipitation, and wind conditions. By analyzing year-over-year changes, seasonal shifts, and different weather conditions, this dashboard helps in understanding climate patterns and making informed weather predictions.
 [view Dashboard](https://public.tableau.com/views/SeattleweatherPrediction/SeattleWeatherPredictionDashboard?:embed=y&:display_count=yes&:showVizHome=no)
 
