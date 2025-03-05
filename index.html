@@ -12,9 +12,12 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
+            background-color: #f4f4f4;
+            color: #333;
+            transition: background 0.5s ease-in-out;
         }
         header {
-            background: #333;
+            background: linear-gradient(90deg, #1e3c72, #2a5298);
             color: white;
             padding: 1rem;
             text-align: center;
@@ -34,10 +37,48 @@
             color: white;
             text-decoration: none;
             font-size: 1.2rem;
+            transition: color 0.3s ease;
+        }
+        .nav-links li a:hover {
+            color: #4CAF50;
         }
         .menu-icon {
             display: none;
             cursor: pointer;
+        }
+        .hero {
+            height: 60vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background: url('https://source.unsplash.com/1600x900/?technology') no-repeat center center/cover;
+            color: white;
+            text-align: center;
+            animation: fadeIn 2s ease-in-out;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            margin: 0;
+        }
+        .hero p {
+            font-size: 1.5rem;
+        }
+        .btn {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .btn:hover {
+            background: #45a049;
         }
         section {
             padding: 50px;
@@ -50,9 +91,14 @@
             padding: 20px;
         }
         .grid-item {
-            background: #f4f4f4;
+            background: white;
             padding: 20px;
             border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+        }
+        .grid-item:hover {
+            transform: scale(1.05);
         }
         footer {
             background: #333;
@@ -62,6 +108,10 @@
             position: relative;
             bottom: 0;
             width: 100%;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
         }
         @media (max-width: 768px) {
             .nav-links {
@@ -89,39 +139,41 @@
 <body>
     <header>
         <nav>
-            <div class="logo">My Portfolio</div>
+            <div class="logo"><i class="fas fa-laptop-code"></i> My Portfolio</div>
             <ul class="nav-links">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#home"><i class="fas fa-home"></i> Home</a></li>
+                <li><a href="#portfolio"><i class="fas fa-briefcase"></i> Portfolio</a></li>
+                <li><a href="#about"><i class="fas fa-user"></i> About</a></li>
+                <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
             </ul>
             <div class="menu-icon"><i class="fas fa-bars"></i></div>
         </nav>
     </header>
     
-    <section id="home">
+    <section class="hero" id="home">
         <h1>Welcome to My Portfolio</h1>
         <p>Explore my work and projects.</p>
+        <button class="btn"><i class="fas fa-arrow-right"></i> Get Started</button>
     </section>
 
     <section id="portfolio">
-        <h2>Portfolio</h2>
+        <h2><i class="fas fa-folder-open"></i> Portfolio</h2>
         <div class="grid-container">
-            <div class="grid-item">Project 1</div>
-            <div class="grid-item">Project 2</div>
-            <div class="grid-item">Project 3</div>
+            <div class="grid-item"><i class="fas fa-chart-bar"></i> Project 1</div>
+            <div class="grid-item"><i class="fas fa-code"></i> Project 2</div>
+            <div class="grid-item"><i class="fas fa-database"></i> Project 3</div>
         </div>
     </section>
 
     <section id="about">
-        <h2>About Me</h2>
+        <h2><i class="fas fa-info-circle"></i> About Me</h2>
         <p>Brief bio and skills.</p>
     </section>
 
     <section id="contact">
-        <h2>Contact</h2>
+        <h2><i class="fas fa-phone"></i> Contact</h2>
         <p>Let's get in touch!</p>
+        <button class="btn"><i class="fas fa-paper-plane"></i> Contact Me</button>
     </section>
 
     <footer>
@@ -137,4 +189,5 @@
     </script>
 </body>
 </html>
+
 
