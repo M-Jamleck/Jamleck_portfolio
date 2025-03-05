@@ -1,192 +1,69 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio - Yan Holtz Style</title>
+    <title>Jamlek's Portfolio</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            background-color: #f4f4f4;
-            color: #333;
-            transition: background 0.5s ease-in-out;
-        }
-        header {
-            background: linear-gradient(90deg, #1e3c72, #2a5298);
-            color: white;
-            padding: 1rem;
-            text-align: center;
-        }
-        nav {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 0 20px;
-        }
-        .nav-links {
-            list-style: none;
-            display: flex;
-            gap: 20px;
-        }
-        .nav-links li a {
-            color: white;
-            text-decoration: none;
-            font-size: 1.2rem;
-            transition: color 0.3s ease;
-        }
-        .nav-links li a:hover {
-            color: #4CAF50;
-        }
-        .menu-icon {
-            display: none;
-            cursor: pointer;
-        }
-        .hero {
-            height: 60vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            background: url('https://source.unsplash.com/1600x900/?technology') no-repeat center center/cover;
-            color: white;
-            text-align: center;
-            animation: fadeIn 2s ease-in-out;
-        }
-        .hero h1 {
-            font-size: 3rem;
-            margin: 0;
-        }
-        .hero p {
-            font-size: 1.5rem;
-        }
-        .btn {
-            background: #4CAF50;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 1rem;
-            transition: background 0.3s;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        .btn:hover {
-            background: #45a049;
-        }
-        section {
-            padding: 50px;
-            text-align: center;
-        }
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            padding: 20px;
-        }
-        .grid-item {
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease-in-out;
-        }
-        .grid-item:hover {
-            transform: scale(1.05);
-        }
-        footer {
-            background: #333;
-            color: white;
-            text-align: center;
-            padding: 1rem;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-        @keyframes fadeIn {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-        @media (max-width: 768px) {
-            .nav-links {
-                display: none;
-                flex-direction: column;
-                text-align: center;
-                background: #333;
-                position: absolute;
-                width: 100%;
-                left: 0;
-                top: 60px;
-                padding: 20px 0;
-            }
-            .nav-links.active {
-                display: flex;
-            }
-            .menu-icon {
-                display: block;
-                color: white;
-                font-size: 1.5rem;
-            }
-        }
-    </style>
 </head>
 <body>
     <header>
-        <nav>
-            <div class="logo"><i class="fas fa-laptop-code"></i> My Portfolio</div>
-            <ul class="nav-links">
-                <li><a href="#home"><i class="fas fa-home"></i> Home</a></li>
-                <li><a href="#portfolio"><i class="fas fa-briefcase"></i> Portfolio</a></li>
-                <li><a href="#about"><i class="fas fa-user"></i> About</a></li>
-                <li><a href="#contact"><i class="fas fa-envelope"></i> Contact</a></li>
-            </ul>
-            <div class="menu-icon"><i class="fas fa-bars"></i></div>
-        </nav>
+        <h1>Hi, I'm Jamlek!</h1>
+        <p>A Data Analyst & Developer passionate about uncovering insights and building impactful solutions.</p>
     </header>
     
-    <section class="hero" id="home">
-        <h1>Welcome to My Portfolio</h1>
-        <p>Explore my work and projects.</p>
-        <button class="btn"><i class="fas fa-arrow-right"></i> Get Started</button>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I'm a data enthusiast skilled in SQL, Power BI, Tableau, and Python. I analyze data to drive decisions and build dashboards to make insights accessible.</p>
     </section>
-
-    <section id="portfolio">
-        <h2><i class="fas fa-folder-open"></i> Portfolio</h2>
-        <div class="grid-container">
-            <div class="grid-item"><i class="fas fa-chart-bar"></i> Project 1</div>
-            <div class="grid-item"><i class="fas fa-code"></i> Project 2</div>
-            <div class="grid-item"><i class="fas fa-database"></i> Project 3</div>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>SQL & Databases</li>
+            <li>Power BI & Tableau</li>
+            <li>Python (Pandas, Matplotlib, Seaborn)</li>
+            <li>Web Development (HTML, CSS, JavaScript, WordPress)</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Employee Attrition Dashboard</h3>
+            <p>Explored factors driving employee retention and attrition using tenure, job roles, and promotions.</p>
+            <a href="https://public.tableau.com/views/EmployeeAttritionDashboard_17406360512570/employeeattritiondashboard" target="_blank">View Dashboard</a>
+        </div>
+        
+        <div class="project">
+            <h3>Seattle Weather Prediction</h3>
+            <p>Analyzed historical weather trends to predict future climate conditions.</p>
+            <a href="https://public.tableau.com/views/SeattleweatherPrediction/SeattleWeatherPredictionDashboard" target="_blank">View Dashboard</a>
+        </div>
+        
+        <div class="project">
+            <h3>Grocery Sales Analysis</h3>
+            <p>Used Python to analyze sales trends, customer spending, and product performance.</p>
+            <a href="https://github.com/M-Jamleck/Jamleck_portfolio/blob/main/Glosery%20sales%20Project.ipynb" target="_blank">View Project</a>
+        </div>
+        
+        <div class="project">
+            <h3>Wine Quality Analysis</h3>
+            <p>Explored factors influencing wine quality using data science techniques.</p>
+            <a href="https://github.com/M-Jamleck/Jamleck_portfolio/blob/main/winequality-red%20project.ipynb" target="_blank">View Project</a>
         </div>
     </section>
-
-    <section id="about">
-        <h2><i class="fas fa-info-circle"></i> About Me</h2>
-        <p>Brief bio and skills.</p>
-    </section>
-
+    
     <section id="contact">
-        <h2><i class="fas fa-phone"></i> Contact</h2>
-        <p>Let's get in touch!</p>
-        <button class="btn"><i class="fas fa-paper-plane"></i> Contact Me</button>
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/jamlek" target="_blank">linkedin.com/in/jamlek</a></p>
+        <p>GitHub: <a href="https://github.com/M-Jamleck" target="_blank">github.com/M-Jamleck</a></p>
     </section>
-
+    
     <footer>
-        <p>&copy; 2025 My Portfolio</p>
+        <p>&copy; 2025 Jamleck. All rights reserved.</p>
     </footer>
-
-    <script>
-        const menuIcon = document.querySelector('.menu-icon');
-        const navLinks = document.querySelector('.nav-links');
-        menuIcon.addEventListener('click', () => {
-            navLinks.classList.toggle('active');
-        });
-    </script>
 </body>
 </html>
 
