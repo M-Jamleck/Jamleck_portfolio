@@ -10,7 +10,6 @@ Explored what drives employees to stay or leave, uncovering trends that impact r
 Here, I explored historical weather patterns to uncover trends in temperature, precipitation, and wind conditions. By analyzing year-over-year changes, seasonal shifts, and different weather conditions, this dashboard helps in understanding climate patterns and making informed weather predictions.
 [view](https://public.tableau.com/views/SeattleweatherPrediction/SeattleWeatherPredictionDashboard?:embed=y&:display_count=yes&:showVizHome=no)
 
-[More](https://m-jamleck.github.io/Jamleck_portfolio/dashboards.html)
 
 <h2>👨‍💻 Python Projects:</h2>
 
