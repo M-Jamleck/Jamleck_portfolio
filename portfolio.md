@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I'm Jamleck!</h1>
 
-## Tableau Dashboards:
+## Interactive Dashboards:
 
 # [Dashboard 1: Employee Attrition](https://public.tableau.com/views/EmployeeAttritionDashboard_17406360512570/employeeattritiondashboard?:embed=y&:display_count=yes&:showVizHome=no)
 Explored what drives employees to stay or leave, uncovering trends that impact retention. By looking at tenure, job roles, promotions, and workload, I identified key factors influencing turnover. This analysis helps organizations create better work environments, improve employee satisfaction, and reduce unnecessary attrition.
