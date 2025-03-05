@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamleck!    This is my portfolio!</h1>
+<h1>Hi, I'm Jamleck!</h1>
 
 ## Tableau Dashboards:
 
